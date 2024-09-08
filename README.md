@@ -1,2 +1,4 @@
 # web1
-just for trial web php
+Just for trial web php and learn git.
+
+Thanks
