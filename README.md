@@ -2,7 +2,12 @@
 Just for trial web php and learn git.
 
 ## TODO
-- add PHP files
-- add env files
+- [x] Contoh pembuatan mockup / wireframe web app
+- [x] Penjelasan singkat Web Application
+- [x] Memahami HTML dan CSS
+- [x] Bootstrap
+- [x] Menggunakan template
+
+
 
 Thanks
